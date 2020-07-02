@@ -68,7 +68,7 @@ to run:
 
 ### Multiple Shins pages / portal
 
-There is a simple example of using an [index markdown file](./source/portal.html.md) as an entry point to a collection of Shins pages [here](https://mermade.github.io/shins/portal.html).
+There is a simple example of using an [index markdown file](../source/portal.html.md) as an entry point to a collection of Shins pages [here](https://mermade.github.io/shins/portal.html).
 
 ### API
 

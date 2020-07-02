@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint *.js",
-    "lintejs": "npx ejslint source/layouts/layout.ejs",
-    "lintapp": "npx eslint source/javascripts/app/*.js",
-    "lintcss": "npx stylelint source/stylesheets/*.scss",
+    "lintejs": "npx ejslint ../source/source/layouts/layout.ejs",
+    "lintapp": "npx eslint ../source/source/javascripts/app/*.js",
+    "lintcss": "npx stylelint ../source/source/stylesheets/*.scss",
     "test": "echo \"Error: no test specified\" && exit 1",
     "update": "node shins --unsafe",
     "build": "node shins",
